@@ -1,0 +1,10 @@
+{
+	"name": "bower",
+	"version": "0.1.0",
+	"dependencies": {
+		"reflux": "~0.2.4",
+		"react": "~0.12.2",
+		"react-router": "~0.11.6"
+	},
+	"devDependencies": {}
+}
