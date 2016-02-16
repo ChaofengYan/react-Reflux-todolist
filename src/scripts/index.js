@@ -1,6 +1,3 @@
+var TodoAPP = require('./components/TodoComponents');
 
-var TodoAPP = require('./TodoComponents');
-
-React.render( < TodoAPP /> ,
-	document.getElementById("todoapp")
-);
+React.render( <TodoAPP />,document.getElementById("todoapp"));
